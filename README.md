@@ -7,7 +7,7 @@ The purpose of this repository is to provide a sandbox and proving ground for a 
 [Dear ImGui](https://github.com/ocornut/imgui.git)
 This is included as a submodule to this repository. Run 
 ```
-git submodule update --recursive
+git submodule update --init
 ```
 to pull in the necessary changes. Of note, the branch specified is the docking branch, not master.
 
